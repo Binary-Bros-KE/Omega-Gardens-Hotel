@@ -15,7 +15,7 @@ const HeroSlider = () => {
       subtitle: "Farm-to-Table Fresh Ingredients",
       description:
         "Indulge in our carefully crafted dishes made from the finest organic ingredients, sourced directly from local farms. Every bite tells a story of quality, freshness, and culinary passion.",
-      image: "/slider/slider-1.jpg",
+      image: "/slider/slider-1.png",
       features: ["Organic Ingredients", "Master Chef Prepared", "Award-Winning Cuisine"],
       buttonText: "View Our Menu",
       href: "/restaurant-menu/tea",
@@ -27,7 +27,7 @@ const HeroSlider = () => {
       subtitle: "Where Luxury Meets Comfort",
       description:
         "Step into our beautifully designed restaurant spaces featuring contemporary elegance, ambient lighting, and pristine cleanliness. Every detail is crafted to enhance your dining experience.",
-      image: "/slider/slider-2.jpg",
+      image: "/slider/slider-2.png",
       features: ["Premium Ambiance", "Spotless Environment", "Comfortable Seating"],
       buttonText: "Book a Table",
       href: "/contact",
@@ -39,7 +39,7 @@ const HeroSlider = () => {
       subtitle: "Culinary Artists at Work",
       description:
         "Our internationally trained chefs bring decades of experience and passion to every dish. Watch them create culinary masterpieces in our open kitchen concept restaurant.",
-      image: "/slider/slider-3.jpg",
+      image: "/slider/slider-3.png",
       features: ["International Experience", "Creative Innovation", "Personalized Service"],
       buttonText: "Contact Us",
       href: "/contact",
